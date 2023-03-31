@@ -1,8 +1,3 @@
-# Hi There
-I am front-end developer! All my experiences are below. What else do you really want to know 🤔
+![j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx](https://moe-counter.glitch.me/get/@j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx?theme=rule34)
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vite,next,express,nodejs,mysql,postgres,mongo,php,java,docker)
-
-# Stats
-![MyInfo](https://github-readme-stats.vercel.app/api?username=jaroslav-masa&show_icons=true&theme=dracula&hide_border=true)
-
