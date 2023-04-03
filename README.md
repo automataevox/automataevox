@@ -4,5 +4,5 @@
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suishounohibiki&layout=compact&theme=transparent&border_color=2A2B41" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@suishounohibiki&theme=transparent&border_color=2A2B41" width="545" /> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@suishounohibiki&theme=transparent&border_color=2A2B41" width="300" /> 
 </p>
