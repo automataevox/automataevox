@@ -5,5 +5,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suishounohibiki&layout=compact&theme=transparent&border_color=2A2B41)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@suishounohibiki&theme=transparent&border_color=2A2B41)](https://github.com/anuraghazra/github-readme-stats)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@suishounohibiki&theme=transparent&border_color=2A2B41)]
 
