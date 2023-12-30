@@ -1,6 +1,6 @@
 ![j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx](https://moe-counter.glitch.me/get/@j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx?theme=rule34)
 
-- There is not much to see, but I always make stuff!
+- There is not much to see, but I always make stuff! 🫡
 - Musician 🎵 --> [Spotify](https://open.spotify.com/artist/1Ngynwc6bFIKGzRcOrBAnx?si=mlMzuSqfS6yP7J1MI6bKkw) | [Apple Music](https://music.apple.com/us/artist/dxvil/1581545014)
 - Sometimes I play games 🎮
 - Developer mainly in `js`/`ts` 👨‍💻
