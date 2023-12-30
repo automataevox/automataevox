@@ -6,8 +6,8 @@
 - Developer mainly in `js`/`ts` 👨‍💻
 
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,react,vite,next,nodejs)
-![My Skills](https://skillicons.dev/icons?i=mui,tailwind,mysql,postgres,php,java)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,react,vite,next)
+![My Skills](https://skillicons.dev/icons?i=nodejs,mui,tailwind,mysql,postgres,php,java)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suishounohibiki&layout=compact&theme=transparent&border_color=2A2B41)](https://github.com/anuraghazra/github-readme-stats)
