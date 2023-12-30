@@ -4,7 +4,7 @@
 - Musician 🎵 --> [Spotify](https://open.spotify.com/artist/1Ngynwc6bFIKGzRcOrBAnx?si=mlMzuSqfS6yP7J1MI6bKkw) | [Apple Music](https://music.apple.com/us/artist/dxvil/1581545014)
 - Sometimes I play games 🎮
 - Developer mainly in `js`/`ts` 👨‍💻
-- FavStack: `nextjs`, `tailwindcss`, `ts`
+- FavStack: `nextjs`, `tailwindcss`, `ts` ⭐
 
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,react,vite,next)
