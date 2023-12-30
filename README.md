@@ -1,6 +1,6 @@
 ![j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx](https://moe-counter.glitch.me/get/@j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx?theme=rule34)
 
-- There is not much to see, but I always make take stuff!
+- There is not much to see, but I always make stuff!
 - Musician 🎵
 - Sometimes I play games 🎮
 - Developer mainly in `js`/`ts` 👨‍💻
