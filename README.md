@@ -11,6 +11,4 @@
 ![My Skills](https://skillicons.dev/icons?i=nodejs,mui,tailwind,mysql,postgres,php,java)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suishounohibiki&layout=compact&theme=transparent&border_color=2A2B41)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=suishounohibiki&theme=onedark&no-frame=false&no-bg=true&column=4&margin-w=15&margin-h=15&title=Experience,Followers,MultipleLang)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://app.daily.dev/dxvil"><img src="https://api.daily.dev/devcards/v2/W4EAYsoUbwptsWbyqXpdh.png?r=ewm&type=default" width="356" alt="DXVIL's Dev Card"/></a>
