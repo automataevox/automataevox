@@ -9,6 +9,3 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,react,vite,next)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,mui,tailwind,mysql,postgres,php,java)
-
-
-<a href="https://app.daily.dev/dxvil"><img src="https://api.daily.dev/devcards/v2/W4EAYsoUbwptsWbyqXpdh.png?r=ewm&type=default" width="356" alt="DXVIL's Dev Card"/></a>
