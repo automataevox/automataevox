@@ -25,7 +25,7 @@
 ## 🧰 Tech Stack
 
 ### ⚡ Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,python,csharp)
 
 ### ⚡ Frameworks & Tools
 ![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,vite,mui)
