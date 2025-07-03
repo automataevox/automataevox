@@ -25,13 +25,16 @@
 ## 🧰 Tech Stack
 
 ### ⚡ Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,python,csharp)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,python,cs)
 
 ### ⚡ Frameworks & Tools
 ![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,vite,mui)
 
 ### ⚡ Databases & Infra
 ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker)
+
+### ⚡ Music Production
+![My Skills](https://skillicons.dev/icons?i=ableton)
 
 ---
 
