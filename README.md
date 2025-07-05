@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@j1aBcGd2eEfgHhIiJkLlMmN3OPQ4pqR5S6TtU7uvWwXyYz8K9n0oVsx?theme=rule34" alt="profile views" />
+  <img src="https://count.getloli.com/@YXV0b21hdGFldm94?name=YXV0b21hdGFldm94&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="profile views" />
 </p>
 
 ---
