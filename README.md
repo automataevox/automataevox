@@ -1,7 +1,7 @@
 <h1 align="center">⚡ DXVIL aka Jaroslav Maša ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist+%F0%9F%94%90;Hard+Techno+Producer+%F0%9F%8E%B5;Next.js+Dev+%F0%9F%91%A4;Dark+Vibes+Only+%F0%9F%94%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer+%F0%9F%94%90;Hard+Techno+Producer+%F0%9F%8E%B5;Next.js+Dev+%F0%9F%91%A4;" alt="Typing SVG" />
 </p>
 
 ---
