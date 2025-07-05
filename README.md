@@ -24,17 +24,20 @@
 
 ## 🧰 Tech Stack
 
-### ⚡ Languages & Frameworks
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,python,cs)
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,php,bash" />
 
-### ⚡ Frameworks & Tools
-![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,nodejs,vite,mui)
+### 🌐 Web & Frontend
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,vue" />
 
-### ⚡ Databases & Infra
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,docker)
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,fastapi" />
 
-### ⚡ Music Production
-![My Skills](https://skillicons.dev/icons?i=ableton)
+### ☁️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,vscode,nginx" />
+
+### 🛢 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
 ---
 
