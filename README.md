@@ -1,14 +1,13 @@
 <h1 align="center">⚡ DXVIL / Jaroslav Maša ⚡</h1>
 
-<p align="center"><em>Fullstack Dev · Cybersecurity Enthusiast · Hard Techno Producer</em></p>
+<p align="center"><em>Fullstack Dev · System Administrator · Drum and Bass Producer</em></p>
 
 ---
 
 ## 🧠 About
 
-- 🎧 Hard Techno artist — [Spotify](https://open.spotify.com/artist/1Ngynwc6bFIKGzRcOrBAnx) | [Apple Music](https://music.apple.com/us/artist/dxvil/1581545014)
+- 🎧 Drum and Bass artist — [Spotify](https://open.spotify.com/artist/1Ngynwc6bFIKGzRcOrBAnx) | [Apple Music](https://music.apple.com/us/artist/dxvil/1581545014)
 - 💻 Fullstack Dev — `Next.js`, `TypeScript`, `Tailwind`, `Docker`
-- 🔐 Hacking hobbyist — SSRF, AV evasion, sandbox bypasses
 
 ---
 
