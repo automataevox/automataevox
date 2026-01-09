@@ -14,7 +14,7 @@
 ## 🛠️ Stack
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,php,bash" />
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,php,bash,java,gradle" />
 
 ### 🌐 Frontend  
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react,nextjs,vue" />
