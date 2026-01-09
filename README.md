@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=automataevox&show_icons=true&theme=tokyonight&hide=issues" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=automataevox&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
----
-
 ## 🔗 Links
 
 [![Website](https://img.shields.io/badge/-dxvil.com-black?style=for-the-badge&logo=vercel)](https://dxvil.com)
