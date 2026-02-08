@@ -60,9 +60,9 @@ A production-ready SaaS platform for record labels with 15+ integrated features:
 ```typescript
 const expertise = {
   frontend: ["Next.js", "React", "TypeScript", "Vue.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "FastAPI", ".NET", "Prisma ORM"],
-  languages: ["TypeScript", "JavaScript", "Python", "C#", "C++", "PHP", "Bash"],
-  databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite"],
+  backend: ["Node.js", "Express", "FastAPI", "Prisma ORM"],
+  languages: ["TypeScript", "JavaScript", "Python", "Bash"],
+  databases: ["PostgreSQL", "MySQL", "SQLite"],
   devops: ["Docker", "Kubernetes", "Linux", "Nginx", "Git", "CI/CD"],
 }
 ```
