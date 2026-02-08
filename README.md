@@ -28,7 +28,7 @@ I don't just write code—I architect **production-ready systems** that scale. W
 
 ## 💼 What I've Built Recently
 
-### 🎵 **Enterprise Music Distribution Platform** *(This Repository)*
+### 🎵 **Enterprise Music Distribution Platform**
 A production-ready SaaS platform for record labels with 15+ integrated features:
 
 **Technical Highlights:**
