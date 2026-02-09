@@ -108,23 +108,23 @@ const expertise = {
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,prisma,ts" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,ts" /></td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /></td>
   </tr>
   <tr>
     <td><strong>DevOps</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github" /></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github" /></td>
   </tr>
   <tr>
     <td><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,php,bash,java" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,bash,java" /></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=vscode,postman,vercel,figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,postman,vercel" /></td>
   </tr>
 </table>
 
