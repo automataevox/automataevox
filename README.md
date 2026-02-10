@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Jaroslav Maša (DXVIL) ⚡</h1>
+<h1 align="center">⚡ Jaroslav Maša (Automata EvoX) ⚡</h1>
 
 <p align="center">
   <strong>Senior Full-Stack Engineer</strong><br>
