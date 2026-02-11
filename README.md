@@ -50,7 +50,7 @@ A production-ready SaaS platform for record labels with 15+ integrated features:
 - Integrated payment processing with subscription lifecycle management
 - Designed scalable database schema with proper indexing
 
-**Tech Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · Stripe · Spotify API
+**Tech Stack:** Next.js 15/16 · React 19 · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · Stripe · Redis
 
 ---
 
