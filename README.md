@@ -28,6 +28,33 @@ I don't just write code—I architect **production-ready systems** that scale. W
 
 ## 💼 What I've Built Recently
 
+### 📅 **Bookr - Modern Booking Platform**
+A self-hosted SaaS booking system for creative studios, optimized for cost-effective VPS deployment:
+
+**Technical Highlights:**
+- 🏗️ **Multi-tenant architecture** — Studio isolation with row-level security
+- 🔒 **Race-condition-safe booking** — Redis distributed locks + database transactions
+- 💳 **Stripe subscriptions** — Multi-tier plans (Free/Pro/Studio) with backend enforcement
+- 🐳 **Production-optimized deployment** — Runs on 2GB RAM VPS (~930MB total footprint)
+- 🔐 **NextAuth integration** — Email magic links + Google OAuth
+- 📧 **Email automation** — Confirmations, reminders with SMTP/Resend
+- ⚡ **Performance engineering** — Next.js standalone build, Redis caching, Alpine Docker
+- 🛡️ **Security hardening** — Rate limiting, input validation, CSRF protection, webhook verification
+- 📊 **Real-time availability** — Conflict detection with `SELECT FOR UPDATE` locking
+- 🚀 **One-command deployment** — Automated setup scripts for dev & production
+
+**Key Achievements:**
+- Designed concurrent booking system preventing double-bookings under high load
+- Implemented plan limit enforcement at server action level (not client-side)
+- Built Docker-first architecture with Traefik reverse proxy + auto-SSL
+- Created automated deployment scripts reducing setup from 45min to 5min
+- Optimized memory usage: PostgreSQL (350MB), Redis (50MB), Next.js (500MB)
+- Developed comprehensive deployment guide for VPS/Railway/Vercel options
+
+**Tech Stack:** Next.js 15 · React Server Components · TypeScript · Prisma · PostgreSQL · Redis · NextAuth · Stripe · Docker · Traefik
+
+---
+
 ### 🎵 **Enterprise Music Distribution Platform**
 A production-ready SaaS platform for record labels with 15+ integrated features:
 
@@ -50,7 +77,7 @@ A production-ready SaaS platform for record labels with 15+ integrated features:
 - Integrated payment processing with subscription lifecycle management
 - Designed scalable database schema with proper indexing
 
-**Tech Stack:** Next.js 15/16 · React 19 · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · Stripe · Redis
+**Tech Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · Stripe · Redis
 
 ---
 
