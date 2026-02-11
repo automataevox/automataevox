@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dxvil.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" /></a>
+  <a href="https://dev.dxvil.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel" /></a>
   <a href="https://linkedin.com/in/jaroslavmasa"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:artist@dxvil.com"><img src="https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail" /></a>
 </p>
