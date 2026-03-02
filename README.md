@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Jaroslav Maša (Automata EvoX) ⚡</h1>
 
 <p align="center">
-  <strong>Senior Full-Stack Engineer</strong><br>
+  <strong>Full-Stack Engineer</strong><br>
   <em>Building production-ready SaaS platforms with modern web technologies</em>
 </p>
 
