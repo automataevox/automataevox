@@ -28,85 +28,86 @@ I don't just write code—I architect **production-ready systems** that scale. W
 
 ## 💼 What I've Built Recently
 
-### 📅 **Bookr - Modern Booking Platform**
-A self-hosted SaaS booking system for creative studios, optimized for cost-effective VPS deployment:
-
-**Technical Highlights:**
-- 🏗️ **Multi-tenant architecture** — Studio isolation with row-level security
-- 🔒 **Race-condition-safe booking** — Redis distributed locks + database transactions
-- 💳 **Stripe subscriptions** — Multi-tier plans (Free/Pro/Studio) with backend enforcement
-- 🐳 **Production-optimized deployment** — Runs on 2GB RAM VPS (~930MB total footprint)
-- 🔐 **NextAuth integration** — Email magic links + Google OAuth
-- 📧 **Email automation** — Confirmations, reminders with SMTP/Resend
-- ⚡ **Performance engineering** — Next.js standalone build, Redis caching, Alpine Docker
-- 🛡️ **Security hardening** — Rate limiting, input validation, CSRF protection, webhook verification
-- 📊 **Real-time availability** — Conflict detection with `SELECT FOR UPDATE` locking
-- 🚀 **One-command deployment** — Automated setup scripts for dev & production
-
-**Key Achievements:**
-- Designed concurrent booking system preventing double-bookings under high load
-- Implemented plan limit enforcement at server action level (not client-side)
-- Built Docker-first architecture with Traefik reverse proxy + auto-SSL
-- Created automated deployment scripts reducing setup from 45min to 5min
-- Optimized memory usage: PostgreSQL (350MB), Redis (50MB), Next.js (500MB)
-- Developed comprehensive deployment guide for VPS/Railway/Vercel options
-
-**Tech Stack:** Next.js 15 · React Server Components · TypeScript · Prisma · PostgreSQL · Redis · NextAuth · Stripe · Docker · Traefik
-
----
-
-### 🎵 **Enterprise Music Distribution Platform**
-A production-ready SaaS platform for record labels with 15+ integrated features:
+### 🎵 **The Artist Room - Music Platform**
+Production-ready SaaS platform for artist profile management and music submissions with full-stack ownership:
 
 **Technical Highlights:**
 - 🔐 **NextAuth v5** authentication with role-based access control
 - 💳 **Stripe integration** — Subscriptions, webhooks, customer portal
-- 🎨 **File upload system** — Image processing, validation, automatic cleanup
-- 🌍 **Database architecture** — PostgreSQL with Prisma, seeding, migrations
-- 🔄 **External API sync** — Spotify Web API OAuth2 integration
-- 📧 **Email automation** — Transactional emails with Resend
-- 🌐 **Internationalization** — Multi-language support (EN/CS)
-- 🛡️ **Rate limiting** — Token bucket algorithm with LRU cache
-- 🎭 **Feature flags** — Dynamic feature toggling system
+- 🎨 **File upload infrastructure** — Image processing, validation, automatic cleanup
+- 🌍 **Database architecture** — PostgreSQL schema design with optimization
+- 🔄 **Spotify Web API integration** — OAuth2 integration for artist discovery
 - 📊 **Admin dashboard** — Complete CMS for content management
+- 🎭 **Artist workflows** — Profile management and music submission systems
+- 🚀 **CI/CD pipelines** — GitHub Actions with automated testing
 
 **Key Achievements:**
-- Built custom file upload system with automatic storage management
-- Implemented country normalization with 195-country database
-- Created real-time artist discovery with multi-parameter search
-- Integrated payment processing with subscription lifecycle management
-- Designed scalable database schema with proper indexing
+- Designed complete system architecture (frontend / backend / database)
+- Built artist authentication and role-based access control
+- Implemented subscription billing with Stripe webhooks
+- Created REST API and business logic from scratch
+- Deployed with Docker containerization and monitoring
+- Developed real-time artist profile management interface
 
-**Tech Stack:** Next.js 15 · React 19 · TypeScript · Tailwind CSS · Prisma · PostgreSQL · NextAuth · Stripe · Redis
+**Tech Stack:** Next.js · TypeScript · Node.js · PostgreSQL · Docker · Stripe API · Spotify API · TailwindCSS · REST APIs
+
+**Links:** [Live Demo](https://theartistroom.eu)
+
+---
+
+### 🔄 **CrossFlow - Multi-Platform Clipboard Sync**
+LAN-based clipboard synchronization tool enabling seamless copy-paste across Windows, Android, and macOS:
+
+**Technical Highlights:**
+- 🌐 **Peer-to-peer architecture** — Zero-config, no cloud required
+- 🔍 **mDNS auto-discovery** — Automatic device detection on local network
+- 🚀 **Fast sync latency** — Bidirectional sync in 100-500ms
+- 📱 **Multi-platform support** — Windows, Android (Jetpack Compose), macOS
+- 🔒 **Secure** — TCP/UDP networking with local network only
+
+**Technical Implementation:**
+- Kotlin and Jetpack Compose for Android frontend
+- mDNS (Bonjour) protocol for service discovery
+- TCP/UDP networking protocols for data sync
+- Multi-platform architecture design
+
+**Tech Stack:** Kotlin · Jetpack Compose · Networking (TCP/UDP/mDNS) · Multi-platform Architecture
+
+**Links:** [GitHub Repository](https://github.com/automataevox/crossflow)
 
 ---
 
 ## 🛠️ Technical Expertise
 
+### **Professional Summary**
+Systems & Full-Stack Engineer specializing in design, development, and operations of modern web systems and infrastructure. Experienced in Linux server administration, Node.js/TypeScript backend services, PostgreSQL/MySQL database design, automation, and application deployment in Docker environments with CI/CD pipelines. Full stack expertise from database schema and API design through frontend applications in React/Next.js to application operations on Linux infrastructure.
+
+### **Core Competencies**
+- ⚡ **Full-Stack Architecture & Development** — End-to-end ownership from database to deployment
+- 🏗️ **Backend Services** — Node.js, TypeScript, REST API design and implementation
+- 📊 **Database Design & Optimization** — PostgreSQL, MySQL, schema design, query optimization
+- 🎨 **Frontend Development** — React, Next.js, TypeScript, Tailwind CSS
+- 🐳 **DevOps & Infrastructure** — Docker, Kubernetes, Linux administration, CI/CD pipelines
+- 🔌 **Third-Party Integration** — Payment gateways (Stripe), OAuth (Spotify), webhooks, REST APIs
+- 🔐 **Security Engineering** — Auth systems, RBAC, input validation, rate limiting
+- 🚀 **Performance Engineering** — Server components, caching, query optimization
+- 🧪 **Testing & QA** — Unit tests, integration tests, E2E testing strategies
+
 ### **Languages & Frameworks**
 ```typescript
 const expertise = {
-  frontend: ["Next.js", "React", "TypeScript", "Vue.js", "Tailwind CSS"],
-  backend: ["Node.js", "Express", "FastAPI", "Prisma ORM"],
-  languages: ["TypeScript", "JavaScript", "Python", "Bash"],
-  databases: ["PostgreSQL", "MySQL", "SQLite"],
-  devops: ["Docker", "Kubernetes", "Linux", "Nginx", "Git", "CI/CD"],
+  backend: ["Node.js", "TypeScript", "REST APIs", "C# .NET Core", "Spring Boot"],
+  frontend: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+  database: ["PostgreSQL", "MySQL", "Schema Design", "Query Optimization"],
+  devops: ["Docker", "Kubernetes", "GitHub Actions", "CI/CD Pipelines", "Linux Administration"],
+  languages: ["TypeScript", "JavaScript", "Kotlin", "Python", "Bash"],
+  tools: ["Git", "Grafana", "Stripe API", "Spotify API", "AWS"],
 }
 ```
 
-### **Core Competencies**
-- ⚡ **Full-Stack Development** — Complete ownership from database to deployment
-- 🏗️ **System Architecture** — Microservices, API design, database normalization
-- 🔌 **Third-Party Integration** — Payment gateways, OAuth, webhooks, REST APIs
-- 🔐 **Security Engineering** — Auth systems, RBAC, input validation, rate limiting
-- 📊 **Database Design** — Schema optimization, indexing, migration strategies
-- 🚀 **Performance Engineering** — Server components, caching, lazy loading
-- 📝 **Clean Code** — SOLID principles, DRY, maintainable architecture
-- 🧪 **Testing & QA** — Unit tests, integration tests, E2E testing strategies
-
 ### **What Separates Me**
 - 🎯 **Product Mindset** — I understand business requirements and translate them into technical solutions
-- 📚 **Self-Documenting Code** — Clear naming, TypeScript types, inline documentation
+- 📚 **Self-Documenting Code** — Clear naming, TypeScript types, comprehensive documentation
 - 🔄 **Continuous Learning** — Always adopting latest best practices and technologies
 - 💬 **Communication** — Can explain complex technical concepts to non-technical stakeholders
 - 🎵 **Creative Background** — As a music producer ([Spotify](https://open.spotify.com/artist/1Ngynwc6bFIKGzRcOrBAnx) | [Apple Music](https://music.apple.com/us/artist/dxvil/1581545014)), I bring creativity to problem-solving
@@ -162,16 +163,18 @@ const expertise = {
 I'm open to **full-time positions**, **contract work**, and **interesting projects**.
 
 **Looking for:**
-- Senior Full-Stack Engineer roles
+- Full-Stack Engineer roles
 - Next.js / React specialist positions
 - Technical leadership opportunities
 - Remote or hybrid positions in Czech Republic
 
 **Contact:**
-- 📧 Email: [artist@dxvil.com](mailto:artist@dxvil.com)
+- 📧 Email: [dev@dxvil.com](mailto:dev@dxvil.com) or [jaroslav26masa@icloud.com](mailto:jaroslav26masa@icloud.com)
+- 📱 Phone: +420 608 420 281
 - 💼 LinkedIn: [linkedin.com/in/jaroslavmasa](https://linkedin.com/in/jaroslavmasa)
-- 🌐 Portfolio: [dxvil.com](https://dxvil.com)
-- 💻 GitHub: *You're already here!*
+- 🌐 Portfolio: [dev.dxvil.com](https://dev.dxvil.com)
+- 💻 GitHub: [github.com/automataevox](https://github.com/automataevox)
+- 📍 Location: Havlíčkův Brod, Czech Republic
 
 ---
 
