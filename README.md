@@ -170,7 +170,6 @@ I'm open to **full-time positions**, **contract work**, and **interesting projec
 
 **Contact:**
 - 📧 Email: [dev@dxvil.com](mailto:dev@dxvil.com) or [jaroslav26masa@icloud.com](mailto:jaroslav26masa@icloud.com)
-- 📱 Phone: +420 608 420 281
 - 💼 LinkedIn: [linkedin.com/in/jaroslavmasa](https://linkedin.com/in/jaroslavmasa)
 - 🌐 Portfolio: [dev.dxvil.com](https://dev.dxvil.com)
 - 💻 GitHub: [github.com/automataevox](https://github.com/automataevox)
